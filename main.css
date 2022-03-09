@@ -1,7 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Ropa+Sans&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body {
+    font-family: 'Ropa Sans', sans-serif;
 }
 
 .Cabeçalho {
@@ -15,19 +21,38 @@
 .Logo h1 {
     position: absolute;
 width: 63px;
-height: 43px;
+height: 90px;
 margin-top: 1.7%;
-margin-left: 5%;
-font-family: Ropa Sans;
+margin-left: 10%;
+
 font-style: normal;
 font-weight: normal;
 font-size: 43px;
-line-height: 32px;
+line-height: 30px;
+
 text-transform: uppercase;
 
 color: #777777;
 }
 
+.Logo h2 {
+    position: absolute;
+   margin-left: 15.7%;
+   margin-top: 1.5%;
+   font-weight: normal;
+   font-size: 16px;
+   
+
+   font-style: normal;
+   color: #AAAAAA;
+
+}
+
+.Menu img {
+    margin-left: 89%;
+    height: 18px;
+    margin-top: 2%;
+}
 
 
 
