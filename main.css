@@ -58,6 +58,7 @@ color: #777777;
     width: 80%;
     margin-left: 10%;
     margin-top: 7.5%;
+    
 }
 
 .BotaoEsquerda img {
@@ -91,10 +92,150 @@ color: #777777;
     margin-left:85.2%;
 }
 
+.Img2 img {
+    float: left;
+    width: 35%;
+    margin-top: 18.5%;
+    margin-left: 10%;
+    
+}
 
+.Img3 img {
+    
+    width: 35%;
+    margin-left: 55%;
+    margin-top: 18.5%;
+    display: flex;
+    
+}
+
+.TittleImg2 {
+    background-color: #dad8d8;
+    position: absolute;
+    height: 30%;
+    width: 35%;
+    margin-left: 10%;
+} 
+
+.TittleImg2 h2 {
+    position: absolute;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 27px;
+    margin-top: 4%;
+    margin-left: 3%;
     
 
+    color: #888888;
+}
 
+.TittleImg2 img {
+    position: absolute;
+    margin-left: 78%;
+    margin-top: 4%;
+    width: 18%;
+    
+}
+
+.TittleImg2 h3 {
+    position: absolute;
+    margin-left: 82%;
+    margin-top: 5.7%;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 21px;
+    color: white;
+    
+}
+
+.TittleImg2 p {
+    margin-left: 9%;
+    margin-top: 18%;
+    height: 10px;
+    width: 85%;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #555555;
+}
+
+.TittleImg3 {
+    background-color: #dad8d8;
+    position: absolute;
+    width: 35%;
+    height: 30%;
+    margin-left: 55%;
+}
+
+.TittleImg3 h2 {
+    position: absolute;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 27px;
+    margin-top: 4%;
+    margin-left: 3%;
+    color: #888888;
+
+}
+
+.TittleImg3 img {
+    position: absolute;
+    margin-left: 78%;
+    margin-top: 4%;
+    width: 18%;
+    
+}
+
+.TittleImg3 h3 {
+    position: absolute;
+    margin-left: 82%;
+    margin-top: 5.7%;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 21px;
+    color: white;
+}
+
+.TittleImg3 p {
+    margin-left: 9%;
+    margin-top: 18%;
+    height: 10px;
+    width: 85%;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #555555;
+}
+
+.styles {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    margin-top: 14%;
+
+}
+
+
+.styles h2 {
+    position: absolute;
+    color: #888888;
+    
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 24px;
+    
+    margin-left: 44%;
+    margin-top: 18%;
+} 
+
+
+
+
+
+
+
+    
 
 
 
